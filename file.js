@@ -54,19 +54,3 @@ if (pinAnswer.atmPin === 2585) {
 else {
     console.log("incorrect pin");
 }
-//
-//     else if(amount <== accountBalance)
-// }
-// else if(proceed.operation === "fastCash"){
-//     const amount = await inquirer.prompt([{
-//         name : "fastCash",
-//         type : "list",
-//         message: "select the amount",
-//         choices : [1000, 2000, 5000, 10000]
-//      }])
-// }else if(amount.fastCash === "choices"){
-//     console.log(`your remaining balance is: ${amount.fastCash} -${accountBalance}`)
-// }
-// else{
-//     console.log("Incorrect pin")
-// }
